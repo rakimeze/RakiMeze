@@ -54,12 +54,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=RakiMeze&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=RakiMeze&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-RakiMeze.vercel.app/api/top-langs/?username=RakiMeze&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Furtsy&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Furtsy&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
 
 <br/><br/>
 [![Discord Presence](https://lanyard.cnrad.dev/api/547073075317833738)](https://discord.com/users/547073075317833738) [![Discord Presence](https://lanyard.cnrad.dev/api/852793921792507914)](https://discord.com/users/852793921792507914)
