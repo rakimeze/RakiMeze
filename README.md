@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/547073075317833738)](https://discord.com/users/547073075317833738)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -62,6 +62,7 @@
 </div>
 
 <br/><br/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/547073075317833738)](https://discord.com/users/547073075317833738)
 <hr/>
 
 <h3 align="center">
