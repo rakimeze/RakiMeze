@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/547073075317833738?hideDiscrim=true)](https://discord.com/users/547073075317833738)
+[![Discord Presence](https://lanyard.cnrad.dev/api/547073075317833738)](https://discord.com/users/547073075317833738)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
