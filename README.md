@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962417173043753022?hideDiscrim=true)](https://discord.com/users/962417173043753022)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
