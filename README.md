@@ -55,10 +55,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Furtsy&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Furtsy&theme=nord" width="%100" height="150px" alt="stats" />
+  <summary style="font-weight: bold; font-size: 18px">Stats View</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=RakiMeze&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakiMeze&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=RakiMeze&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
 <br/><br/>
